@@ -1,6 +1,4 @@
-
-echo "This is an example of a script"
-echo "This is running in a build step"
-echo "This is a param $PASSED"
+echo "This script is from github"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
-echo "$NUM"
+echo "$NUMBER"
+echo "This is complete"
