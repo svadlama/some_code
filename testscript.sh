@@ -1,4 +1,4 @@
 echo "This script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "This is completed from terminel test6--"
+echo "This is completed from terminel test7--"
